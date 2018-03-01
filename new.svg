@@ -88,8 +88,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999999"
-     inkscape:cx="6.1440845"
-     inkscape:cy="15.992838"
+     inkscape:cx="26.855561"
+     inkscape:cy="18.621901"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -116,7 +116,7 @@
         <dc:source>http://jimmac.musichall.cz</dc:source>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag>
             <rdf:li>reload</rdf:li>
@@ -147,8 +147,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.90107727px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c5ed57;fill-opacity:1;stroke:#6c6c6c;stroke-width:0.59440351;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 19.557777,30.840515 7.293892,1e-6 0.02388,7.72671 4.69692,-2.4e-5 -1e-6,-7.7214 7.291543,-0.0053 -0.0067,-4.800608 -7.274294,0.0028 -0.04378,-7.641523 -4.680997,-0.02121 0.01725,7.668059 -7.301851,0.004 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.90107727px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c5ed57;fill-opacity:1;stroke:#6c6c6c;stroke-width:0.83499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 19.557777,30.940363 7.194283,10e-7 0.02388,7.626862 4.896402,-2.4e-5 -1e-6,-7.621552 7.19167,-0.0053 -0.0067,-5.000413 -7.174421,0.0028 -0.04378,-7.541566 -4.880479,-0.02121 0.01725,7.568102 -7.202242,0.004 z"
        id="text1314"
        sodipodi:nodetypes="ccccccccccccc"
        inkscape:connector-curvature="0" />
